@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba9fb653-0941-49ab-b336-76a79b7ef540" name="Changes" comment="CalculadoraMaisSimples">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraDivisao/CalcularDivisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraDivisao/CalculosDivisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraMultiplicacao/CalculcarMultiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraMultiplicacao/CalculosMultiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraPotencia/CalcularPotencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraPotencia/CalculosPotencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraSoma/CalcularSoma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraSoma/CalculosSoma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraSubtracao/CalcularSubtracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraSubtracao/CalculosSubtracao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2Ul0hlZm5vc5XlAuxB0Xo1FO0So" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CalcularPotencia">
+    <configuration name="CalcularDivisao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculadoraDivisao.CalcularDivisao" />
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculadoraDivisao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcularPotencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculadoraPotencia.CalcularPotencia" />
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculadoraPotencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcularSoma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculadoraSoma.CalcularSoma" />
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculadoraSoma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcularSubtracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculadoraSubtracao.CalcularSubtracao" />
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculadoraSubtracao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculcarMultiplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculadoraMultiplicacao.CalculcarMultiplicacao" />
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculadoraMultiplicacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalcularPotencia" />
+        <item itemvalue="Application.CalcularDivisao" />
+        <item itemvalue="Application.CalculcarMultiplicacao" />
+        <item itemvalue="Application.CalcularSubtracao" />
+        <item itemvalue="Application.CalcularSoma" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba9fb653-0941-49ab-b336-76a79b7ef540" name="Changes" comment="" />
+      <created>1693498982929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693498982929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CalculadoraMaisSimples" />
+    <option name="LAST_COMMIT_MESSAGE" value="CalculadoraMaisSimples" />
+  </component>
+</project>
