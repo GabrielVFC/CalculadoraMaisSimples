@@ -19,4 +19,14 @@ public class CalcularSoma {
         //Saída dos calculos feito pelo programa
         System.out.println("A soma de todos os número é: %d".formatted(variaveis.totalSoma()));
         }
+
+        /*public static int getNumero() {
+            System.out.println("Digite um número:");
+            var numero = digite.nextInt();
+
+            if(numero < 0)
+                getNumero();
+            else 
+                return numero;
+        }*/
     }
