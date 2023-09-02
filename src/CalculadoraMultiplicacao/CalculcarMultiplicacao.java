@@ -10,7 +10,7 @@ public class CalculcarMultiplicacao {
         for (int i = 0; i < 5; i++) {
 
             System.out.println("Digite um número:");
-            variaveis.numero = dado.nextInt();
+            variaveis.total(dado.nextInt());
 
         }
         System.out.println("A multiplicação de todos os número é: %d".formatted(variaveis.totalMultiplicacao()));
