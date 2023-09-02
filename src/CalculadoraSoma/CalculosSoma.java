@@ -11,6 +11,6 @@ public class CalculosSoma {
 
     //Retorna o total dos valores
     int totalSoma (){
-        return numero + numero + numero + numero + numero;
+        return numero;
     }
 }
