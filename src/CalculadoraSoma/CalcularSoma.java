@@ -14,7 +14,7 @@ public class CalcularSoma {
 
         for (int i = 0; i < 5; i++) {
             System.out.println("Digite um número:");
-            variaveis.numero = digite.nextInt();
+            variaveis.total(digite.nextInt());
         }
         //Saída dos calculos feito pelo programa
         System.out.println("A soma de todos os número é: %d".formatted(variaveis.totalSoma()));
