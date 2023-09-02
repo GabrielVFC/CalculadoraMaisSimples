@@ -8,6 +8,6 @@ public class CalculosMultiplicacao {
     }
 
     int totalMultiplicacao (){
-        return numero * numero * numero * numero * numero;
+        return numero;
     }
 }
