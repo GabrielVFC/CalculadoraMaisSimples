@@ -9,6 +9,6 @@ public class CalculosSubtracao {
     }
 
     int totalSubtracao (){
-        return -numero -numero -numero -numero -numero;
+        return;
     }
 }
